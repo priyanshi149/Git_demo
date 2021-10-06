@@ -169,3 +169,8 @@ git branch
 touch fall-menu.md
 vim menu.md
 vim menu.md
+git remote add origin https://github.com/priyanshi149/Git_Demo.git
+git branch -M main
+git push -u origin main
+git push -u origin master
+git push -u origin main

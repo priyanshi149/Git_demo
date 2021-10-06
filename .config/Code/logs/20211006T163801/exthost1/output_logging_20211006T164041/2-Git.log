@@ -20,3 +20,7 @@ fatal: remote origin already exists.
 > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/i1536/Desktop/git_demo/index.html
 > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/i1536/Desktop/git_demo/index.html
 > git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - --allow-empty
+> git remote add origin https://github.com/priyanshi149/Demo_Git.git
+fatal: remote origin already exists.
+Opening repository for path='/home/i1536/Desktop/git_demo' failed; ex=Canceled: Canceled
