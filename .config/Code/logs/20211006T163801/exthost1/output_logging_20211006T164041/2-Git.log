@@ -5,3 +5,18 @@ Open repository: /home/i1536
 > git status -z -u
 > git check-ignore -v -z --stdin
 > git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - --allow-empty
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+> git remote add Origin https://github.com/priyanshi149/Git_Demo.git
+> git remote add Origin https://github.com/priyanshi149/Git_Demo.git
+fatal: remote Origin already exists.
+> git remote add origin1 https://github.com/priyanshi149/Git_Demo.git
+> git remote add origin https://github.com/priyanshi149/Git_Demo.git
+fatal: remote origin already exists.
+> git remote add origin2 https://github.com/priyanshi149/Git_Demo.git
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/i1536/Desktop/git_demo/index.html
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/i1536/Desktop/git_demo/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/i1536/Desktop/git_demo/index.html
+> git add -A -- .

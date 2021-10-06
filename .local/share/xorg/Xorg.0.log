@@ -587,3 +587,7 @@ See https://wayland.freedesktop.org/libinput/doc/1.15.5/touchpad-jumping-cursors
 [116467.002] (EE) event11 - DELL0A7B:00 06CB:CE26 Touchpad: kernel bug: Touch jump detected and discarded.
 See https://wayland.freedesktop.org/libinput/doc/1.15.5/touchpad-jumping-cursors.html for details
 [116467.002] (EE) event11 - DELL0A7B:00 06CB:CE26 Touchpad: WARNING: log rate limit exceeded (5 msgs per 7200000ms). Discarding future messages.
+[123010.033] (II) modeset(0): EDID vendor "BOE", prod id 2593
+[123010.033] (II) modeset(0): Printing DDC gathered Modelines:
+[123010.033] (II) modeset(0): Modeline "1366x768"x0.0   72.42  1366 1414 1446 1528  768 771 777 790 +hsync -vsync (47.4 kHz eP)
+[123010.033] (II) modeset(0): Modeline "1366x768"x0.0   57.94  1366 1414 1446 1528  768 771 777 790 +hsync -vsync (37.9 kHz e)
