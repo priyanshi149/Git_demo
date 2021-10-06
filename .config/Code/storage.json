@@ -3,7 +3,7 @@
     "openedPathsList": {
         "entries": [
             {
-                "folderUri": "file:///home/i1536/Desktop/Demo_Git"
+                "folderUri": "file:///home/i1536/Desktop/Demo"
             },
             {
                 "folderUri": "file:///home/i1536/Desktop/git_demo"
@@ -54,13 +54,13 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/i1536/Desktop/Demo_Git",
-                                        "external": "file:///home/i1536/Desktop/Demo_Git",
-                                        "path": "/home/i1536/Desktop/Demo_Git",
+                                        "fsPath": "/home/i1536/Desktop/Demo",
+                                        "external": "file:///home/i1536/Desktop/Demo",
+                                        "path": "/home/i1536/Desktop/Demo",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Demo_Git"
+                                    "label": "~/Desktop/Demo"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -569,8 +569,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -1504,8 +1503,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/i1536/Desktop/Demo_Git",
-            "backupPath": "/home/i1536/.config/Code/Backups/735c99e8d48fd96cf327534df9aaf8bd",
+            "folder": "file:///home/i1536/Desktop/Demo",
+            "backupPath": "/home/i1536/.config/Code/Backups/589b7149b5a8692122c22b10fa3a8dfb",
             "uiState": {
                 "mode": 0,
                 "x": 171,

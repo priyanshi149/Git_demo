@@ -3,14 +3,14 @@
   <context id="">
     <application id="snap-store_ubuntu-software-local-file.desktop" score="1.53125" last-seen="1632209835"/>
     <application id="org.gnome.Cheese.desktop" score="0.125" last-seen="1632142699"/>
-    <application id="gnome-control-center.desktop" score="13.40625" last-seen="1633522825"/>
+    <application id="gnome-control-center.desktop" score="13.40625" last-seen="1633524065"/>
     <application id="libreoffice-impress.desktop" score="0" last-seen="1633413925"/>
     <application id="gnome-language-selector.desktop" score="0.25" last-seen="1633329295"/>
-    <application id="firefox.desktop" score="86.625" last-seen="1633523751"/>
+    <application id="firefox.desktop" score="105.625" last-seen="1633524664"/>
     <application id="libreoffice-startcenter.desktop" score="0" last-seen="1633436274"/>
     <application id="org.gnome.eog.desktop" score="0.0625" last-seen="1632747941"/>
     <application id="thunderbird.desktop" score="2.40625" last-seen="1632748398"/>
-    <application id="code.desktop" score="430" last-seen="1633523784"/>
+    <application id="code.desktop" score="525" last-seen="1633524662"/>
     <application id="gnome-wifi-panel.desktop" score="0" last-seen="0"/>
     <application id="libreoffice-writer.desktop" score="14.5" last-seen="1633436357"/>
     <application id="chrome-mdpkiolbdkhdjpekfbkbmhigcaggjagi-Default.desktop" score="0.1875" last-seen="1632210802"/>
@@ -20,7 +20,7 @@
     <application id="yelp.desktop" score="0.09375" last-seen="1632205098"/>
     <application id="update-manager.desktop" score="0" last-seen="1633004391"/>
     <application id="Zoom.desktop" score="4176.875" last-seen="1633523786"/>
-    <application id="google-chrome.desktop" score="2372.1875" last-seen="1633523756"/>
+    <application id="google-chrome.desktop" score="2372.1875" last-seen="1633524665"/>
     <application id="org.gnome.gedit.desktop" score="14" last-seen="1633514300"/>
   </context>
 </application-state>

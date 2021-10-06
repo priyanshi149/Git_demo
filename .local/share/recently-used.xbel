@@ -254,4 +254,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/i1536/Desktop/Demo" added="2021-10-06T12:53:07Z" modified="2021-10-06T12:53:07Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-10-06T12:53:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
