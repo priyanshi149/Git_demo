@@ -1,0 +1,6 @@
+2021/10/04-09:42:16.023 2fa48 Creating DB /home/i1536/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb since it was missing.
+2021/10/04-09:42:16.026 2fa48 Reusing MANIFEST /home/i1536/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/04-09:45:50.371 2fa47 Level-0 table #5: started
+2021/10/04-09:45:50.372 2fa47 Level-0 table #5: 4114 bytes OK
+2021/10/04-09:45:50.373 2fa47 Delete type=0 #3
+2021/10/04-09:45:50.373 2fa47 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

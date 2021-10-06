@@ -1,0 +1,6 @@
+2021/10/05-11:17:01.610 4de72 Creating DB /home/i1536/.config/google-chrome/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb since it was missing.
+2021/10/05-11:17:01.612 4de72 Reusing MANIFEST /home/i1536/.config/google-chrome/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/05-11:17:09.254 4de72 Level-0 table #5: started
+2021/10/05-11:17:09.255 4de72 Level-0 table #5: 405 bytes OK
+2021/10/05-11:17:09.256 4de72 Delete type=0 #3
+2021/10/05-11:17:09.256 4de72 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

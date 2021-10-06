@@ -1,0 +1,7 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/i1536
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git add -A -- .

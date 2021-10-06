@@ -1,0 +1,69 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "Dell Inc.",
+    "Product": "Latitude 3420",
+    "Family": "Latitude",
+    "DCD": "canonical-oem-somerville-focal-amd64-20200502-85"
+  },
+  "BIOS": {
+    "Vendor": "Dell Inc.",
+    "Version": "1.3.1"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "8",
+    "Threads": "2",
+    "Cores": "4",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "140",
+    "Stepping": "1",
+    "Name": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "9a49"
+    }
+  ],
+  "RAM": 16.1,
+  "Partitions": [
+    482.1,
+    0.8
+  ],
+  "Screens": [
+    {
+      "Size": "309mmx173mm",
+      "Resolution": "1366x768",
+      "Frequency": "59.99"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_IN",
+  "Timezone": "Asia/Kolkata",
+  "Install": {
+    "Media": "Ubuntu 20.04 \"Focal\" - Build amd64 LIVE Binary 20200502-05:58\n",
+    "Type": "GTK",
+    "OEM": true,
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "5": "start_install",
+      "6": "user_done",
+      "371": "done"
+    }
+  }
+}

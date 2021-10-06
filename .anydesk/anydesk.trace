@@ -1,0 +1,115 @@
+   info 2021-09-16 11:04:53.436         ad   main  54882  54882                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-09-16 11:04:53.436         ad   main  54882  54882                                  main - * AnyDesk Linux Startup *
+   info 2021-09-16 11:04:53.436         ad   main  54882  54882                                  main - * Version 6.1.1 (linux_bsd_rpi_6.1.1 d5cd0aedcfaef0b868e31f90b10395e13dd0a3ef)
+   info 2021-09-16 11:04:53.436         ad   main  54882  54882                                  main - * Build 20210413130604
+   info 2021-09-16 11:04:53.436         ad   main  54882  54882                                  main - * Prefix ad
+   info 2021-09-16 11:04:53.436         ad   main  54882  54882                                  main - * Copyright (C) 2021 AnyDesk Software GmbH *
+   info 2021-09-16 11:04:53.436         ad   main  54882  54882                                  main - 
+   info 2021-09-16 11:04:53.436         ad   main  54882  54882                                  main - Distribution Info: Ubuntu 20.04.2 LTS (fossa-kakuna X60)
+   info 2021-09-16 11:04:53.436         ad   main  54882  54882                                  main - Found GLib Version: 2.64.
+   info 2021-09-16 11:04:53.474         ad   main  54882  54882                       app.common_path - user_data_dir = /home/i1536/.anydesk, logged_in_user_data_dir = /home/i1536/.anydesk, current_home = /home/i1536
+
+   info 2021-09-16 11:04:53.474         ad   main  54882  54882                       app.common_path - initialized user = /home/i1536/.anydesk, system = /etc/anydesk
+   info 2021-09-16 11:04:53.479       tray   main  54882  54882                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-09-16 11:04:53.479       tray   main  54882  54882                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-09-16 11:04:53.503       tray   main  54882  54882                       base.signal.hub - 1 threads.
+   info 2021-09-16 11:04:53.503       tray   main  54882  54882                    app.tunnel_ft_comp - Ready.
+   info 2021-09-16 11:04:53.575       tray   ctrl  54882  55024                      unix_app.control - Control startup.
+  error 2021-09-16 11:04:53.579       tray   ctrl  54882  55024              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-09-16 11:04:53.585       tray   wrk0  54882  55031              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-09-16 11:04:53.585       tray   wrk0  54882  55031                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-09-16 11:04:53.586       tray   wrk0  54882  55031        base.signal.global.shared_file - open (/var/lib/AccountsService/users/i1536) failed (13): Permission denied 
+warning 2021-09-16 11:04:53.587       tray   wrk0  54882  55031                      unix_app.control - Could not update account image (File not found: /home/i1536/.face.icon).
+   info 2021-09-20 10:12:47.565         ad   main   3364   3364                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-09-20 10:12:47.566         ad   main   3364   3364                                  main - * AnyDesk Linux Startup *
+   info 2021-09-20 10:12:47.566         ad   main   3364   3364                                  main - * Version 6.1.1 (linux_bsd_rpi_6.1.1 d5cd0aedcfaef0b868e31f90b10395e13dd0a3ef)
+   info 2021-09-20 10:12:47.566         ad   main   3364   3364                                  main - * Build 20210413130604
+   info 2021-09-20 10:12:47.566         ad   main   3364   3364                                  main - * Prefix ad
+   info 2021-09-20 10:12:47.566         ad   main   3364   3364                                  main - * Copyright (C) 2021 AnyDesk Software GmbH *
+   info 2021-09-20 10:12:47.566         ad   main   3364   3364                                  main - 
+   info 2021-09-20 10:12:47.566         ad   main   3364   3364                                  main - Distribution Info: Ubuntu 20.04.2 LTS (fossa-kakuna X60)
+   info 2021-09-20 10:12:47.566         ad   main   3364   3364                                  main - Found GLib Version: 2.64.
+   info 2021-09-20 10:12:47.672         ad   main   3364   3364                       app.common_path - user_data_dir = /home/i1536/.anydesk, logged_in_user_data_dir = /home/i1536/.anydesk, current_home = /home/i1536
+
+   info 2021-09-20 10:12:47.672         ad   main   3364   3364                       app.common_path - initialized user = /home/i1536/.anydesk, system = /etc/anydesk
+   info 2021-09-20 10:12:47.682       tray   main   3364   3364                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-09-20 10:12:47.682       tray   main   3364   3364                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-09-20 10:12:47.718       tray   main   3364   3364                       base.signal.hub - 1 threads.
+   info 2021-09-20 10:12:47.718       tray   main   3364   3364                    app.tunnel_ft_comp - Ready.
+   info 2021-09-20 10:12:47.772       tray   ctrl   3364   3476                      unix_app.control - Control startup.
+  error 2021-09-20 10:12:47.776       tray   ctrl   3364   3476              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-09-20 10:12:47.790       tray   wrk0   3364   3477              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-09-20 10:12:47.790       tray   wrk0   3364   3477                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-09-20 10:12:47.790       tray   wrk0   3364   3477        base.signal.global.shared_file - open (/var/lib/AccountsService/users/i1536) failed (13): Permission denied 
+warning 2021-09-20 10:12:47.792       tray   wrk0   3364   3477                      unix_app.control - Could not update account image (File not found: /home/i1536/.face.icon).
+   info 2021-09-20 12:55:17.498         ad   main   3796   3796                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-09-20 12:55:17.498         ad   main   3796   3796                                  main - * AnyDesk Linux Startup *
+   info 2021-09-20 12:55:17.498         ad   main   3796   3796                                  main - * Version 6.1.1 (linux_bsd_rpi_6.1.1 d5cd0aedcfaef0b868e31f90b10395e13dd0a3ef)
+   info 2021-09-20 12:55:17.498         ad   main   3796   3796                                  main - * Build 20210413130604
+   info 2021-09-20 12:55:17.498         ad   main   3796   3796                                  main - * Prefix ad
+   info 2021-09-20 12:55:17.498         ad   main   3796   3796                                  main - * Copyright (C) 2021 AnyDesk Software GmbH *
+   info 2021-09-20 12:55:17.498         ad   main   3796   3796                                  main - 
+   info 2021-09-20 12:55:17.498         ad   main   3796   3796                                  main - Distribution Info: Ubuntu 20.04.2 LTS (fossa-kakuna X60)
+   info 2021-09-20 12:55:17.498         ad   main   3796   3796                                  main - Found GLib Version: 2.64.
+   info 2021-09-20 12:55:17.578         ad   main   3796   3796                       app.common_path - user_data_dir = /home/i1536/.anydesk, logged_in_user_data_dir = /home/i1536/.anydesk, current_home = /home/i1536
+
+   info 2021-09-20 12:55:17.578         ad   main   3796   3796                       app.common_path - initialized user = /home/i1536/.anydesk, system = /etc/anydesk
+   info 2021-09-20 12:55:17.588       tray   main   3796   3796                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-09-20 12:55:17.588       tray   main   3796   3796                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-09-20 12:55:17.623       tray   main   3796   3796                       base.signal.hub - 1 threads.
+   info 2021-09-20 12:55:17.623       tray   main   3796   3796                    app.tunnel_ft_comp - Ready.
+   info 2021-09-20 12:55:17.671       tray   ctrl   3796   3921                      unix_app.control - Control startup.
+  error 2021-09-20 12:55:17.672       tray   ctrl   3796   3921              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-09-20 12:55:17.695       tray   wrk0   3796   3922              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-09-20 12:55:17.695       tray   wrk0   3796   3922                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-09-20 12:55:17.696       tray   wrk0   3796   3922        base.signal.global.shared_file - open (/var/lib/AccountsService/users/i1536) failed (13): Permission denied 
+warning 2021-09-20 12:55:17.697       tray   wrk0   3796   3922                      unix_app.control - Could not update account image (File not found: /home/i1536/.face.icon).
+   info 2021-09-21 05:52:08.246         ad   main   2878   2878                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-09-21 05:52:08.247         ad   main   2878   2878                                  main - * AnyDesk Linux Startup *
+   info 2021-09-21 05:52:08.247         ad   main   2878   2878                                  main - * Version 6.1.1 (linux_bsd_rpi_6.1.1 d5cd0aedcfaef0b868e31f90b10395e13dd0a3ef)
+   info 2021-09-21 05:52:08.247         ad   main   2878   2878                                  main - * Build 20210413130604
+   info 2021-09-21 05:52:08.247         ad   main   2878   2878                                  main - * Prefix ad
+   info 2021-09-21 05:52:08.247         ad   main   2878   2878                                  main - * Copyright (C) 2021 AnyDesk Software GmbH *
+   info 2021-09-21 05:52:08.247         ad   main   2878   2878                                  main - 
+   info 2021-09-21 05:52:08.247         ad   main   2878   2878                                  main - Distribution Info: Ubuntu 20.04.2 LTS (fossa-kakuna X60)
+   info 2021-09-21 05:52:08.247         ad   main   2878   2878                                  main - Found GLib Version: 2.64.
+   info 2021-09-21 05:52:08.274         ad   main   2878   2878                       app.common_path - user_data_dir = /home/i1536/.anydesk, logged_in_user_data_dir = /home/i1536/.anydesk, current_home = /home/i1536
+
+   info 2021-09-21 05:52:08.274         ad   main   2878   2878                       app.common_path - initialized user = /home/i1536/.anydesk, system = /etc/anydesk
+   info 2021-09-21 05:52:08.299       tray   main   2878   2878                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-09-21 05:52:08.299       tray   main   2878   2878                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-09-21 05:52:08.326       tray   main   2878   2878                       base.signal.hub - 1 threads.
+   info 2021-09-21 05:52:08.327       tray   main   2878   2878                    app.tunnel_ft_comp - Ready.
+   info 2021-09-21 05:52:08.381       tray   ctrl   2878   2989                      unix_app.control - Control startup.
+  error 2021-09-21 05:52:08.384       tray   ctrl   2878   2989              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-09-21 05:52:08.413       tray   wrk0   2878   2990              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-09-21 05:52:08.413       tray   wrk0   2878   2990                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-09-21 05:52:08.413       tray   wrk0   2878   2990        base.signal.global.shared_file - open (/var/lib/AccountsService/users/i1536) failed (13): Permission denied 
+warning 2021-09-21 05:52:08.414       tray   wrk0   2878   2990                      unix_app.control - Could not update account image (File not found: /home/i1536/.face.icon).
+   info 2021-09-27 12:52:57.151         ad   main   3190   3190                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-09-27 12:52:57.152         ad   main   3190   3190                                  main - * AnyDesk Linux Startup *
+   info 2021-09-27 12:52:57.152         ad   main   3190   3190                                  main - * Version 6.1.1 (linux_bsd_rpi_6.1.1 d5cd0aedcfaef0b868e31f90b10395e13dd0a3ef)
+   info 2021-09-27 12:52:57.152         ad   main   3190   3190                                  main - * Build 20210413130604
+   info 2021-09-27 12:52:57.152         ad   main   3190   3190                                  main - * Prefix ad
+   info 2021-09-27 12:52:57.152         ad   main   3190   3190                                  main - * Copyright (C) 2021 AnyDesk Software GmbH *
+   info 2021-09-27 12:52:57.152         ad   main   3190   3190                                  main - 
+   info 2021-09-27 12:52:57.152         ad   main   3190   3190                                  main - Distribution Info: Ubuntu 20.04.2 LTS (fossa-kakuna X60)
+   info 2021-09-27 12:52:57.152         ad   main   3190   3190                                  main - Found GLib Version: 2.64.
+   info 2021-09-27 12:52:57.260         ad   main   3190   3190                       app.common_path - user_data_dir = /home/i1536/.anydesk, logged_in_user_data_dir = /home/i1536/.anydesk, current_home = /home/i1536
+
+   info 2021-09-27 12:52:57.260         ad   main   3190   3190                       app.common_path - initialized user = /home/i1536/.anydesk, system = /etc/anydesk
+   info 2021-09-27 12:52:57.264       tray   main   3190   3190                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-09-27 12:52:57.264       tray   main   3190   3190                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-09-27 12:52:57.282       tray   main   3190   3190                       base.signal.hub - 1 threads.
+   info 2021-09-27 12:52:57.282       tray   main   3190   3190                    app.tunnel_ft_comp - Ready.
+   info 2021-09-27 12:52:57.317       tray   ctrl   3190   3306                      unix_app.control - Control startup.
+  error 2021-09-27 12:52:57.325       tray   ctrl   3190   3306              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2021-09-27 12:52:57.333       tray   wrk0   3190   3307              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-09-27 12:52:57.333       tray   wrk0   3190   3307                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-09-27 12:52:57.333       tray   wrk0   3190   3307        base.signal.global.shared_file - open (/var/lib/AccountsService/users/i1536) failed (13): Permission denied 
+warning 2021-09-27 12:52:57.334       tray   wrk0   3190   3307                      unix_app.control - Could not update account image (File not found: /home/i1536/.face.icon).

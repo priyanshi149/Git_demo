@@ -1,0 +1,6 @@
+2021/10/05-10:29:11.181 76fb Creating DB /home/i1536/.config/google-chrome/Default/IndexedDB/https_aax-fe-sin.amazon-adsystem.com_0.indexeddb.leveldb since it was missing.
+2021/10/05-10:29:11.184 76fb Reusing MANIFEST /home/i1536/.config/google-chrome/Default/IndexedDB/https_aax-fe-sin.amazon-adsystem.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/05-10:29:28.452 1865 Level-0 table #5: started
+2021/10/05-10:29:28.453 1865 Level-0 table #5: 411 bytes OK
+2021/10/05-10:29:28.454 1865 Delete type=0 #3
+2021/10/05-10:29:28.454 1865 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

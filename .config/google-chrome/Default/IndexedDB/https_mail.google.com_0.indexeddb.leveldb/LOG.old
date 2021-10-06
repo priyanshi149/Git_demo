@@ -1,0 +1,18 @@
+2021/09/27-18:23:23.889 10da Reusing MANIFEST /home/i1536/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/27-18:23:23.889 10da Recovering log #3
+2021/09/27-18:23:23.892 10da Reusing old log /home/i1536/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2021/09/30-17:48:19.892 26f67 Level-0 table #5: started
+2021/09/30-17:48:19.904 26f67 Level-0 table #5: 1792252 bytes OK
+2021/09/30-17:48:19.906 26f67 Delete type=0 #3
+2021/10/05-13:17:36.375 1082b5 Level-0 table #7: started
+2021/10/05-13:17:36.377 1082b5 Level-0 table #7: 116080 bytes OK
+2021/10/05-13:17:36.378 1082b5 Delete type=0 #4
+2021/10/05-13:17:36.378 1082b5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/10/05-13:17:36.378 1082b5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x01\x02\x01\x15\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00A\x00L\x00L' @ 4491 : 1
+2021/10/05-13:17:36.378 1082b5 Compacting 1@1 + 1@2 files
+2021/10/05-13:17:36.384 1082b5 Generated table #8@1: 154 keys, 161347 bytes
+2021/10/05-13:17:36.384 1082b5 Compacted 1@1 + 1@2 files => 161347 bytes
+2021/10/05-13:17:36.385 1082b5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/05-13:17:36.385 1082b5 Delete type=2 #7
+2021/10/05-13:17:36.385 1082b5 Delete type=2 #5
+2021/10/05-13:17:36.386 1082b5 Manual compaction at level-1 from '\x00\x0a\x01\x02\x01\x15\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00A\x00L\x00L' @ 4491 : 1 .. (end); will stop at (end)

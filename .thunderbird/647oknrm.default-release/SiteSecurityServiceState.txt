@@ -1,0 +1,6 @@
+firefox.settings.services.mozilla.com:HSTS	0	18891	1663746454022,1,0,2
+www.mozilla.org:HSTS	1	18897	1648473071300,1,1,2
+innovaccer.com:HSTS	0	18891	1663746474830,1,1,2
+autoconfig.thunderbird.net:HSTS	0	18891	1663746474410,1,0,2
+www.firefox.com:HSTS	1	18897	1664284271888,1,0,2
+services.addons.thunderbird.net:HSTS	0	18891	1663746573642,1,0,2
