@@ -1,3 +1,6 @@
-2021/10/05-14:05:10.984 148916 Reusing MANIFEST /home/i1536/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/10/05-14:05:10.984 148916 Recovering log #6
-2021/10/05-14:05:10.984 148916 Reusing old log /home/i1536/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000006.log 
+2021/10/07-09:45:47.220 28bfff Reusing MANIFEST /home/i1536/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/07-09:45:47.220 28bfff Recovering log #6
+2021/10/07-09:45:47.232 28bfff Reusing old log /home/i1536/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000006.log 
+2021/10/07-09:46:12.593 28bfef Level-0 table #11: started
+2021/10/07-09:46:12.608 28bfef Level-0 table #11: 1894389 bytes OK
+2021/10/07-09:46:12.610 28bfef Delete type=0 #6

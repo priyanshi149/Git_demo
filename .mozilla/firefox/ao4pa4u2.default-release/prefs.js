@@ -98,7 +98,7 @@ user_pref("pdfjs.migrationVersion", 2);
 user_pref("places.database.lastMaintenance", 1633519900);
 user_pref("privacy.purge_trackers.date_in_cookie_database", "0");
 user_pref("privacy.purge_trackers.last_purge", "1633519900187");
-user_pref("privacy.sanitize.pending", "[{\"id\":\"newtab-container\",\"itemsToClear\":[],\"options\":{}}]");
+user_pref("privacy.sanitize.pending", "[]");
 user_pref("security.remote_settings.crlite_filters.checked", 1633519762);
 user_pref("security.remote_settings.intermediates.checked", 1633519762);
 user_pref("security.sandbox.content.tempDirSuffix", "2e777c62-090e-452d-a9c0-77a8046ea1e6");

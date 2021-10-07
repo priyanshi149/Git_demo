@@ -35,3 +35,103 @@ fatal: Authentication failed for 'https://github.com/priyanshi149/Git_Demo.git/'
 > git check-ignore -v -z --stdin
 > git check-ignore -v -z --stdin
 > git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/i1536/Desktop/Demo/index.html
+> git cat-file -s 1ef4a48cda28b3c239729ab5ee039d6811a771db
+> git show --textconv :Desktop/Demo/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+> git remote add Priyanshi https://github.com/priyanshi149/Demo.git
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch Priyanshi
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push -u Priyanshi main
+> git ls-files --stage -- /home/i1536/Desktop/Demo/index.html
+> git cat-file -s 1ef4a48cda28b3c239729ab5ee039d6811a771db
+> git show --textconv :Desktop/Demo/index.html
+> git push
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+> git push -u Priyanshi main
+> git ls-files --stage -- /home/i1536/Desktop/Demo/index.html
+> git cat-file -s 1ef4a48cda28b3c239729ab5ee039d6811a771db
+> git show --textconv :Desktop/Demo/index.html
+error: RPC failed; curl 92 HTTP/2 stream 0 was not closed cleanly: CANCEL (err 8)
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 92 HTTP/2 stream 0 was not closed cleanly: CANCEL (err 8)
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+> git push
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+> git push -u origin main
+remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File .local/share/Trash/files/Rippling.dmg is 86.82 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File .thunderbird/647oknrm.default-release/ImapMail/imap.gmail.com/INBOX is 50.07 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File Downloads/code_1.60.2-1632313585_amd64.deb is 72.38 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File Downloads/zoom_amd64.deb is 59.28 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/priyanshi149/Git_demo.git        
+To https://github.com/priyanshi149/Git_Demo.git
+ * [new branch]        main -> main
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/i1536/Desktop/Demo/index.html
+> git cat-file -s 1ef4a48cda28b3c239729ab5ee039d6811a771db
+> git show --textconv :Desktop/Demo/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /home/i1536/Desktop/Demo/index.html
+> git cat-file -s 1ef4a48cda28b3c239729ab5ee039d6811a771db
+> git show --textconv :Desktop/Demo/index.html
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .

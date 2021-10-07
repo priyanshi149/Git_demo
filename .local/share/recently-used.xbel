@@ -264,4 +264,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/i1536/Desktop/Demo/index.html" added="2021-10-06T13:05:33Z" modified="2021-10-06T13:05:33Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-10-06T13:05:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

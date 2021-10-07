@@ -6,21 +6,21 @@
     <application id="gnome-control-center.desktop" score="13.40625" last-seen="1633524065"/>
     <application id="libreoffice-impress.desktop" score="0" last-seen="1633413925"/>
     <application id="gnome-language-selector.desktop" score="0.25" last-seen="1633329295"/>
-    <application id="firefox.desktop" score="105.625" last-seen="1633524664"/>
+    <application id="firefox.desktop" score="130.625" last-seen="1633525744"/>
     <application id="libreoffice-startcenter.desktop" score="0" last-seen="1633436274"/>
     <application id="org.gnome.eog.desktop" score="0.0625" last-seen="1632747941"/>
     <application id="thunderbird.desktop" score="2.40625" last-seen="1632748398"/>
-    <application id="code.desktop" score="525" last-seen="1633524662"/>
+    <application id="code.desktop" score="599" last-seen="1633583776"/>
     <application id="gnome-wifi-panel.desktop" score="0" last-seen="0"/>
     <application id="libreoffice-writer.desktop" score="14.5" last-seen="1633436357"/>
     <application id="chrome-mdpkiolbdkhdjpekfbkbmhigcaggjagi-Default.desktop" score="0.1875" last-seen="1632210802"/>
-    <application id="org.gnome.Terminal.desktop" score="760.5" last-seen="1633521257"/>
+    <application id="org.gnome.Terminal.desktop" score="760.5" last-seen="1633583633"/>
     <application id="org.gnome.Nautilus.desktop" score="24.1875" last-seen="1633518602"/>
     <application id="snap-store_ubuntu-software.desktop" score="8" last-seen="1633518468"/>
     <application id="yelp.desktop" score="0.09375" last-seen="1632205098"/>
     <application id="update-manager.desktop" score="0" last-seen="1633004391"/>
-    <application id="Zoom.desktop" score="4176.875" last-seen="1633523786"/>
-    <application id="google-chrome.desktop" score="2372.1875" last-seen="1633524665"/>
+    <application id="Zoom.desktop" score="5204.875" last-seen="1633587614"/>
+    <application id="google-chrome.desktop" score="2454.1875" last-seen="1633587715"/>
     <application id="org.gnome.gedit.desktop" score="14" last-seen="1633514300"/>
   </context>
 </application-state>

@@ -52,3 +52,7 @@
 [2021-10-06 18:23:26.666] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
 [2021-10-06 18:23:27.735] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 337
 [2021-10-06 18:23:52.980] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 338
+[2021-10-06 18:24:41.350] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 337
+[2021-10-07 10:47:25.996] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2039
+[2021-10-07 12:00:51.035] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2674
+[2021-10-07 12:01:56.070] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2677
